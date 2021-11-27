@@ -1,0 +1,9 @@
+﻿  cw_1.cpp
+C:\cpp_cw\cw_1\cw_1\cw_1.cpp(56,35): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\cpp_cw\cw_1\cw_1\cw_1.cpp(60,19): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\cpp_cw\cw_1\cw_1\cw_1.cpp(140,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\cpp_cw\cw_1\cw_1\cw_1.cpp(154,32): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\cpp_cw\cw_1\cw_1\cw_1.cpp(156,50): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\cpp_cw\cw_1\cw_1\cw_1.cpp(157,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\cpp_cw\cw_1\cw_1\cw_1.cpp(61): warning C4715: cw_2: значение возвращается не при всех путях выполнения
+  cw_1.vcxproj -> C:\cpp_cw\cw_1\Debug\cw_1.exe
